@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1OpgaverKap3", "H1OpgaverKap3\H1OpgaverKap3.csproj", "{C707BBD5-2397-4209-852C-EB9E1AE1C934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C707BBD5-2397-4209-852C-EB9E1AE1C934}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C707BBD5-2397-4209-852C-EB9E1AE1C934}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C707BBD5-2397-4209-852C-EB9E1AE1C934}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C707BBD5-2397-4209-852C-EB9E1AE1C934}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
