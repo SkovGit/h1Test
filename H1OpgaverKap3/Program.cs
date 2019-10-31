@@ -109,6 +109,13 @@ namespace H1OpgaverKap3
                 Volumen = 330,
                 AlcProcent = 5.2
             };
+            Beer beer3 = new Beer
+            {
+                Fabrikant = "Unibrew",
+                Type = BeerType.Bock,
+                Volumen = 500,
+                AlcProcent = 5.8
+            };
 
             Console.WriteLine(nameof(beer1));
             UdskrivBeer(beer1);
